@@ -1,6 +1,10 @@
-### Hi there 👋
+# Marcus Painter
 
 This is my personal GitHub account for mostly private projects.
+
+- Swift
+- C
+- MATLAB
 
 <!--
 **marcuspainter/marcuspainter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
