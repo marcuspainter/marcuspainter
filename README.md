@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is my personal GitHub account for mostly private projects.
+
 <!--
 **marcuspainter/marcuspainter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
