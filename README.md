@@ -1,10 +1,10 @@
 # Marcus Painter
 
-This is my personal GitHub account for mostly private projects.
+This is my personal GitHub account for public and private projects.
 
-- Swift
-- C
-- MATLAB
+- Tracebook iOS App
+- VecLab Swift Real/Complex Vector DSP Library
+
 
 <!--
 **marcuspainter/marcuspainter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
